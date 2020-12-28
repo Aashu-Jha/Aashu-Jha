@@ -4,7 +4,7 @@
 
 - I'm currently pursuing B.Tech from Maharaja Agrasen Institue Of Technology, New Delhi.
 - I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
-- 🌱 I’m currently learning **Flutter** and focusing **Data Structures n Algorithms**.
+- 🌱 I’m currently learning **Flutter** and focusing on **Data Structures n Algorithms**.
 - 🔭 I’m currently working on some interesting projects like,
   - [BMI Calculator](https://github.com/Aashu-Jha/bmi_caluculator)
   - [Dicee Flutter](https://github.com/Aashu-Jha/dicee_flutter)
