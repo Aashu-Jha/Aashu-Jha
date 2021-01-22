@@ -6,6 +6,7 @@
 - I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
 - 🌱 I’m currently learning **Flutter** and focusing on **Data Structures n Algorithms**.
 - 🔭 I’m currently working on some interesting projects like,
+  - [My Portfolio](https://aashu-jha.github.io)
   - [Flash_Chat Flutter](https://github.com/Aashu-Jha/flash_chat_flutter)
   - [Crypto_Currency-Converter](https://github.com/Aashu-Jha/CryptoCurrency-Converter)
   - [Weather App](https://github.com/Aashu-Jha/Weather-App)
@@ -21,8 +22,8 @@
 <h2 align="center">🛠️ Languages & Frameworks</h2>
 
 ![JAVA](https://img.shields.io/badge/java%20-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white)
-![CSS](https://img.shields.io/badge/flutter%20-%231572B6.svg?&style=for-the-badge&logo=flutter&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Dart-ffb400?style=for-the-badge&logo=dart&logoColor=ffff3f)
+![Flutter](https://img.shields.io/badge/flutter%20-%231572B6.svg?&style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-ffb400?style=for-the-badge&logo=dart&logoColor=ffff3f)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 
 
@@ -32,6 +33,7 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/-windows-333333?style=for-the-badge&logo=windows)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
+![Android](https://img.shields.io/badge/-android-00a8e8?style=for-the-badge&logo=android)
 
 <h2 align="center"> How to reach me </h2>
 
