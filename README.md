@@ -39,7 +39,7 @@
 
 <h2 align="center"> How to reach me </h2>
 
-[<img src="https://img.shields.io/badge/Linkedin-aashish_jha-blue?logo=linkedin&style=for-the-badge">](linkedin.com/in/aashish-jha-8980001b4)
+[<img src="https://img.shields.io/badge/Linkedin-aashish_jha-blue?logo=linkedin&style=for-the-badge">](https://linkedin.com/in/aashish-jha-8980001b4)
 [<img src="https://img.shields.io/badge/Telegram-aj-blue?logo=telegram&style=for-the-badge">](https://t.me/Aashu_Jha)
 
 ___
