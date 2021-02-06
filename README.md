@@ -30,11 +30,12 @@
 
 <h2 align="center">⚙️ Tools</h2>
 
-![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![JAVA](https://img.shields.io/badge/java%20-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/-git-00a8e8?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/-windows-333333?style=for-the-badge&logo=windows)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 ![Android](https://img.shields.io/badge/-android-00a8e8?style=for-the-badge&logo=android)
+![Dart](https://img.shields.io/badge/-firebase-ffb400?style=for-the-badge&logo=firebase&logoColor=ffff3f)
 
 <h2 align="center"> How to reach me </h2>
 
