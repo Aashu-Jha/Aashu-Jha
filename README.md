@@ -30,7 +30,7 @@
 
 <h2 align="center">⚙️ Tools</h2>
 
-![JAVA](https://img.shields.io/badge/intellij%20-%23E34F26.svg?&style=for-the-badge&logo=intellij&logoColor=white)
+![JAVA](https://img.shields.io/badge/intellij%20-%23E34F26.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/-git-00a8e8?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/-windows-333333?style=for-the-badge&logo=windows)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
