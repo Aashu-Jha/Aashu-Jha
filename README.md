@@ -6,6 +6,7 @@
 - I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
 - 🌱 I’m currently learning **Flutter** and focusing on **Data Structures n Algorithms**.
 - 🔭 I’m currently working on some interesting projects like,
+  - [Trek_Place_Flutter](https://github.com/Aashu-Jha/trek_place)
   - [My Portfolio](https://aashu-jha.github.io) In Development
   - [Flash_Chat Flutter](https://github.com/Aashu-Jha/flash_chat_flutter)
   - [Crypto_Currency-Converter](https://github.com/Aashu-Jha/CryptoCurrency-Converter)
