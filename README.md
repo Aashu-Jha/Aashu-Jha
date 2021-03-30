@@ -6,7 +6,7 @@
 - I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
 - 🌱 I’m currently learning **Flutter** and focusing on **Data Structures n Algorithms**.
 - 🔭 I’m currently working on some interesting projects like,
-  - [Offline Password Manager](https://github.com/Aahsu-Jha/secure_af)
+  - [Offline Password Manager](https://github.com/Aashu-Jha/secure_af)
   - [Trek_Place_Flutter](https://github.com/Aashu-Jha/trek_place)
   - [ShopApp_Flutter](https://github.com/Aashu-Jha/shop_app_flutter)
   - [My Portfolio](https://aashu-jha.github.io) In Development
