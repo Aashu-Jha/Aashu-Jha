@@ -27,7 +27,7 @@
 ![JAVA](https://img.shields.io/badge/java%20-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter%20-%231572B6.svg?&style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-ffb400?style=for-the-badge&logo=dart&logoColor=ffff3f)
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![C](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 
 
 <h2 align="center">⚙️ Tools</h2>
