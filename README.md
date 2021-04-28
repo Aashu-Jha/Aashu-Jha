@@ -35,10 +35,11 @@
 ![JAVA](https://img.shields.io/badge/intellij%20-%23E34F26.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/-git-00a8e8?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/-windows-333333?style=for-the-badge&logo=windows)
-![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 ![Android](https://img.shields.io/badge/-android-00a8e8?style=for-the-badge&logo=android)
 ![Dart](https://img.shields.io/badge/-firebase-ffb400?style=for-the-badge&logo=firebase&logoColor=ffff3f)
-
+<!--
+![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
+-->
 <h2 align="center"> How to reach me </h2>
 
 [<img src="https://img.shields.io/badge/Linkedin-aashish_jha-blue?logo=linkedin&style=for-the-badge">](https://linkedin.com/in/aashish-jha-8980001b4)
