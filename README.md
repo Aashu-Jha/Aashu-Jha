@@ -5,6 +5,8 @@
 - I'm currently pursuing B.Tech from Maharaja Agrasen Institue Of Technology, New Delhi.
 - I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
 - 🌱 I’m currently learning **Flutter** and focusing on **Data Structures n Algorithms**.
+- Some of my published apps on google play store,
+  - [Trending Mehndi Designs](http://play.google.com/store/apps/details?id=com.boreapps.elegant_mehndi_designs)
 - 🔭 I’m currently working on some interesting projects like,
   - [Movie_App](https://github.com/Aashu-Jha/miusu-movieapp)
   - [Offline Password Manager](https://github.com/Aashu-Jha/secure_af)
