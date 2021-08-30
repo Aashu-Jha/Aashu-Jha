@@ -6,6 +6,7 @@
 - I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
 - 🌱 I’m currently learning **Flutter** and focusing on **Data Structures n Algorithms**.
 - Some of my published apps on google play store,
+  - [CS Quiz](http://play.google.com/store/apps/details?id=com.boreapps.computer_science_quiz)
   - [Trending Mehndi Designs](http://play.google.com/store/apps/details?id=com.boreapps.elegant_mehndi_designs)
 - 🔭 I’m currently working on some interesting projects like,
   - [Movie_App](https://github.com/Aashu-Jha/miusu-movieapp)
