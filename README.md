@@ -8,6 +8,7 @@
 - Some of my published apps on google play store,
   - [CS Quiz](http://play.google.com/store/apps/details?id=com.boreapps.computer_science_quiz)
   - [Trending Mehndi Designs](http://play.google.com/store/apps/details?id=com.boreapps.elegant_mehndi_designs)
+  - [DBMS_WITH_SQL](http://play.google.com/store/apps/details?id=com.boreapps.dbms_with_sql)
 - 🔭 I’m currently working on some interesting projects like,
   - [Movie_App](https://github.com/Aashu-Jha/miusu-movieapp)
   - [Offline Password Manager](https://github.com/Aashu-Jha/secure_af)
