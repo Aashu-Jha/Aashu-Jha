@@ -1,4 +1,4 @@
-![All for One And One for all (2)](https://user-images.githubusercontent.com/63257947/103230422-fa04a680-4967-11eb-9cde-2307a11fa00a.png)
+![All for One And One for all](https://github.com/Aashu-Jha/Aashu-Jha/blob/master/All%20for%20One%20And%20One%20for%20all.png)
 
 <h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1>
 
